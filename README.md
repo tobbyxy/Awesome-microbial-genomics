@@ -23,6 +23,7 @@ penn state
 
 #Evolution
 Felstein book
+phylogenetics IN the genomic era
 
 #reassortment
 
@@ -46,8 +47,12 @@ Linear mixed model
 #tutorials
 
 #resources
+phyloseminar.org
+canada epidemilogy videos
+alliblack book
 
-
+#workshop
+molecular evolution workshop
 
 
 
