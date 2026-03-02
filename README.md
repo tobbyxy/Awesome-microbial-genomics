@@ -1,5 +1,56 @@
 # Awesome-microbial-genomics
 
+## Questions
+
+#read alignment
+
+#what is the annotation of my genome
+prokka
+bakta
+
+#what is mmy pangenome distribution
+Panaroo
+Roary
+
+#tree building
+IQTREE
+Treetime
+#awesome tree visualization
+
+#statistics
+Handbook of statistical genomics
+penn state
+
+#Evolution
+Felstein book
+
+#reassortment
+
+#Ancestral sequence reconstruction
+
+#Design of experiment
+stats penn state
+
+#Bacteria
+
+#GWAS
+treewAS
+Scoary
+Random Forest
+Linear mixed model
+
+#Codon Models
+
+#structure
+
+#tutorials
+
+#resources
+
+
+
+
+
 ## Papers
 [Challenges in prokaryote pangenomics. Tonkin-Hill, G, Corander, J., Parkhill, J. Microbial Genomics (2023)](https://doi.org/10.1099/mgen.0.001021)
 
