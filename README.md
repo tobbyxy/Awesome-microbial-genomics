@@ -2,6 +2,13 @@
 
 ## Questions
 
+## quality control
+fastqc
+fastp
+multiqc
+trimmomatic
+
+
 #read alignment
 
 #what is the annotation of my genome
