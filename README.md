@@ -10,8 +10,8 @@
  
   
 ## Tree building
-[Andrew Rambaut part 1](https://artic.network/guides/how-to-read-a-tree)
-[Andrew Rambaut part 2](https://artic.network/guides/estimating-time-scales.html)
+- [Andrew Rambaut part 1](https://artic.network/guides/how-to-read-a-tree)
+- [Andrew Rambaut part 2](https://artic.network/guides/estimating-time-scales.html)
 
 ## Resources
 - [phyloseminar](phyloseminar.org)
