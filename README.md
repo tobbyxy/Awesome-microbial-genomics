@@ -1,30 +1,64 @@
-# Awesome-microbial-genomics
+# Curating useful microbial bioinformatics tools/resources I come across.
 
-## Questions
+# Virus 
 
-## quality control
-fastqc
-fastp
-multiqc
-trimmomatic
+## Sequence alignment
+
+Global alignment
+Local alignment
+Pairwise alignment
+Multiple sequence alignment
+  - MAFFT
+  - 
+
+-
+- Phillip Compeau Great ideas in computational biology
+
+  
+  
+## Tree building
+[Andrew Rambaut part 1](https://artic.network/guides/how-to-read-a-tree)
+[Andrew Rambaut part 2](https://artic.network/guides/estimating-time-scales.html)
+
+## Resources
+- [phyloseminar](phyloseminar.org)
+- [viral Expasy](https://viralzone.expasy.org/)
+
+## Courses / workshop
+[galaxy training](https://training.galaxyproject.org/training-material/topics/evolution/tutorials/abc_intro_phylo/tutorial.html)
+[Pathogen Data Course](https://conmeehan.github.io/PathogenDataCourse/IntroToPhylogenetics.html)
+[Molecular Evolution workshop](https://molevolworkshop.github.io/)
 
 
-#read alignment
+## Tools
+[NextClade](https://clades.nextstrain.org/)
+[tree manipulation Go tree](https://github.com/evolbioinfo/gotree)
 
-#what is the annotation of my genome
+## Books
+- [Genomic Epi Handbook](https://alliblk.github.io/genepi-book/)
+  
+# Bacterial
+
+
+## Tools
+### genome annotation
 prokka
 bakta
 
-#what is mmy pangenome distribution
+### pangenome reconstruction
 Panaroo
 Roary
 
-#tree building
-IQTREE
-Treetime
-#awesome tree visualization
+### Phylogenetic tree building
+ - [IQTREE](https://iqtree.github.io/)
+ - [Treetime](https://github.com/neherlab/treetime)
 
-#statistics
+
+# Epidemiolggy
+[Artic workshop](https://artic.network/tutorials/workshop_genomic_epidemiology.html)
+
+# Others
+# books statistics
 Handbook of statistical genomics
 penn state
 
@@ -56,10 +90,7 @@ Linear mixed model
 #resources
 phyloseminar.org
 canada epidemilogy videos
-alliblack book
 
-#workshop
-molecular evolution workshop
 
 
 
