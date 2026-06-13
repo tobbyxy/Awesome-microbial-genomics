@@ -18,14 +18,14 @@
 - [viral Expasy](https://viralzone.expasy.org/)
 
 ## Courses / workshop
-[galaxy training](https://training.galaxyproject.org/training-material/topics/evolution/tutorials/abc_intro_phylo/tutorial.html)
-[Pathogen Data Course](https://conmeehan.github.io/PathogenDataCourse/IntroToPhylogenetics.html)
-[Molecular Evolution workshop](https://molevolworkshop.github.io/)
+- [galaxy training](https://training.galaxyproject.org/training-material/topics/evolution/tutorials/abc_intro_phylo/tutorial.html)
+- [Pathogen Data Course](https://conmeehan.github.io/PathogenDataCourse/IntroToPhylogenetics.html)
+- [Molecular Evolution workshop](https://molevolworkshop.github.io/)
 
 
 ## Tools
-[NextClade](https://clades.nextstrain.org/)
-[tree manipulation Go tree](https://github.com/evolbioinfo/gotree)
+- [NextClade](https://clades.nextstrain.org/)
+- [tree manipulation Go tree](https://github.com/evolbioinfo/gotree)
 
 ## Books
 - [Genomic Epi Handbook](https://alliblk.github.io/genepi-book/)
