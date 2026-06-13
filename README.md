@@ -4,17 +4,10 @@
 
 ## Sequence alignment
 
-Global alignment
-Local alignment
-Pairwise alignment
-Multiple sequence alignment
-  - MAFFT
-  - 
-
--
-- Phillip Compeau Great ideas in computational biology
-
-  
+- Global alignment
+- Local alignment
+- Multiple sequence alignment
+ 
   
 ## Tree building
 [Andrew Rambaut part 1](https://artic.network/guides/how-to-read-a-tree)
@@ -39,16 +32,11 @@ Multiple sequence alignment
   
 # Bacterial
 
-
-## Tools
-### genome annotation
-prokka
-bakta
-
-### pangenome reconstruction
-Panaroo
-Roary
-
+## Microbial GWAS
+- [treeWAS](https://github.com/caitiecollins/treeWAS)
+- [Scoary](https://github.com/AdmiralenOla/scoary)
+- [pyseer](https://pyseer.readthedocs.io/en/master/)
+  
 ### Phylogenetic tree building
  - [IQTREE](https://iqtree.github.io/)
  - [Treetime](https://github.com/neherlab/treetime)
@@ -58,45 +46,14 @@ Roary
 [Artic workshop](https://artic.network/tutorials/workshop_genomic_epidemiology.html)
 
 # Others
-# books statistics
-Handbook of statistical genomics
-penn state
-
-#Evolution
-Felstein book
-phylogenetics IN the genomic era
-
-#reassortment
-
-#Ancestral sequence reconstruction
-
-#Design of experiment
-stats penn state
-
-#Bacteria
-
-#GWAS
-treewAS
-Scoary
-Random Forest
-Linear mixed model
-
-#Codon Models
-
-#structure
-
-#tutorials
-
-#resources
-phyloseminar.org
-canada epidemilogy videos
+- [Handbook of statistical genomics](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119487845)
+- [Phylogenetics in the genomic era](https://hal.science/PGE/page/table-of-contents)\
+- [Phylogenetic Handbook](https://ia801801.us.archive.org/4/items/plant-breeding_book/Phylogenetic_Handbook_Lemeyetal.pdf)
+- [Phillip Compeau Great ideas in computational biology](https://compeau.cbd.cmu.edu/teaching-experience/great-ideas-in-computational-biology/)
 
 
 
 
-## Papers
-[Challenges in prokaryote pangenomics. Tonkin-Hill, G, Corander, J., Parkhill, J. Microbial Genomics (2023)](https://doi.org/10.1099/mgen.0.001021)
 
-[Bacterial genome-wide association study of hyper-virulent pneumococcal serotype 1 identifies genetic variation associated with neurotropism. Chaguza, C., Yang, M., Cornick, J., Plessis, M., Gladstone, R. et al., Communications Biology (2020)](https://doi.org/10.1038/s42003-020-01290-9)
-## People
-[Gerry Tonkin-Hill](http://gthlab.au/)
+
+
